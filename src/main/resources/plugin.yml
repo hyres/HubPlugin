@@ -1,0 +1,7 @@
+name: mHub
+version: 1.0-SNAPSHOT
+description: Public source Hub plugin <3
+author: MaikoX
+main: gg.maiko.hub.Hub
+depend:
+  - Vault
